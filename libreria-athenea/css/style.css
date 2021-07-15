@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(189, 243, 119, 0.938);
+}
+
+header {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.521);
+    font-size: 18px;
+}
+
+#titulo-principal {
+    font-size: 40px;
+}
+
+.subtitulo-1 {
+    color: rgba(115, 18, 211, 0.952);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer {
+    color: rgb(6, 6, 255);
+    font-size: 15px;
+    font-weight: bold;
+    background-color: rgba(230, 125, 88, 0.932);
+}
